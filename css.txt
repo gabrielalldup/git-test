@@ -2,3 +2,4 @@ Un autre fichier css
 changement couleur
 changement polices
 changement padding
+changement border
