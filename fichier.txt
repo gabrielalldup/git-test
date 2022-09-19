@@ -3,3 +3,4 @@ Ajout de l'authentification avec Fortify
 Ajout de bootstrap
 Creation de la page login et register
 Refonte du code html
+Contrôles sur la page login
