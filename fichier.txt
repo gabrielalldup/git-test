@@ -6,3 +6,4 @@ Refonte du code html
 Contrôles sur la page login
 Contrôles sur la page register
 Masquage temporaire de la page rehister
+ajout from Mac
